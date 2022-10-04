@@ -10,9 +10,6 @@
             background-color: pink;
     }
 
-    .dimension{
-
-    }
 
     p{
         border-color: lightgreen;
@@ -25,4 +22,13 @@
         padding: 0px 5px;
         border-top: 2px solid black;
         border-bottom: 4px solid gray;
+    }
+
+    h1{
+        font-family: Roboto, sans-serif;
+        text-align: center;
+    }
+
+    body{
+        font-family: 'Crimson Text', serif;
     }
